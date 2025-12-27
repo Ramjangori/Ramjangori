@@ -1,8 +1,13 @@
-# 👋 Hi, I'm Moh Ramjan  
+## Hi 👋, I'm Moh Ramjan  
+### 🚀 A Passionate Java Full Stack Developer (in Progress)
 
-🎓 BCA Student | 💻 Java Full Stack Intern at **Regex Software Services**  
-🚀 Passionate about Backend Development & Problem Solving  
-📍 Sikar, Rajasthan, India  
+💫 **About Me**  
+👯 I’m actively looking for **Internships, Entry-Level Roles, Startups & Open-Source Opportunities**  
+🌱 Currently learning **Java Fundamentals & Core Java** with a strong focus on **OOPs & Problem Solving**  
+💻 I’ve completed **HTML, CSS & JavaScript** and enjoy building clean, responsive UI  
+🔧 Exploring **Backend Development** step-by-step to become a **Java Full Stack Developer**  
+💬 Ask me about **Core Java, OOPs, HTML, CSS, JavaScript, Git & GitHub**  
+⚡ Fun fact: I love learning new tech, staying positive, and improving myself every day 🚀
 
 ---
 
