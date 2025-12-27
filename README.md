@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Moh Ramjan (A passionate Full Stack Java Developer)</h1>
+
+💫 About Me:<br> 👯 I’m looking for **Open source projects, StartUps, Internship or a Job** <br> 🌱 I’m currently learning **Advance java and Spring Boot**<br>💬 Ask me about **Core java , react , tailwind  JavaScript ,Bootstrap , Html and Css , Git&GitHub**<br>⚡ Fun fact - **As a Person I am very Positive who loves to code and other than it I read books, play sports , loves video editing and content creation**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_ramjan.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ramjangori) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramjangori6666@gmail.com) 
